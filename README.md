@@ -3,9 +3,8 @@
 
 ### My name is Vinayak ,
 #### I am a Front-end Developer | Creative Designer
-![I am a Front-end Developer | Creative Designer](https://drive.google.com/file/d/1SKfqZM6LIXsb0R13c8h4juBqm-NYxPFp/view?usp=sharing)
 
-I 
+![Git-banner](https://github.com/VinayakShyavi/VinayakShyavi/assets/121218561/66f13b77-6dce-4918-b06e-c261ef452914)
 
 Skills: React.js | JavaScript | Bootstrap | HTML5 | CSS3 | MySQL
 
@@ -21,7 +20,7 @@ Skills: React.js | JavaScript | Bootstrap | HTML5 | CSS3 | MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakShyavi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayakShyavi&show_icons=true)  
+
 
  
 
